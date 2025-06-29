@@ -6,3 +6,5 @@ log
 *.patch
 
 
+
+/src/main/java/ru/javawebinar/topjava/test/
